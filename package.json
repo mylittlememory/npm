@@ -1,0 +1,13 @@
+{
+  "name": "Server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./Server.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mylittlememory/npm"
+  },
+  "dependencies": {
+    "system-runtime": "^3.1.0"
+  }
+}
