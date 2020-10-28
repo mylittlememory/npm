@@ -1,8 +1,8 @@
 {
-  "name": "Server",
+  "name": "mysystem",
   "version": "0.0.1",
   "description": "",
-  "main": "./Server.json",
+  "main": "./mysystem.json",
   "repository": {
     "type": "git",
     "url": "https://github.com/mylittlememory/npm"
