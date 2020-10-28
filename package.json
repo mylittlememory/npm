@@ -1,8 +1,8 @@
 {
-  "name": "mysystem",
-  "version": "0.0.1",
-  "description": "",
-  "main": "./mysystem.json",
+  "name": "todo-mvc",
+  "version": "1.0.1",
+  "description": "Create a Todo manager.\n\nThe purpose of this example is to learn how to code in System Designer.\n\nTaken from TodoMVC, http://todomvc.com.\n\nBased on the work made by TasteJS (under a Creative Commons Attribution 4.0 International License).",
+  "main": "./todo-mvc.json",
   "repository": {
     "type": "git",
     "url": "https://github.com/mylittlememory/npm"
